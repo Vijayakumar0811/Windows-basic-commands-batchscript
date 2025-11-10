@@ -25,41 +25,50 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="628" height="129" alt="image" src="https://github.com/user-attachments/assets/99b4d793-0acf-4d65-ae9f-1a0c9bc77af2" />
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="690" height="114" alt="image" src="https://github.com/user-attachments/assets/478c1ad5-6002-4762-8bbf-dba28436912a" />
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="787" height="397" alt="image" src="https://github.com/user-attachments/assets/449b0f23-af45-420c-9c17-d04309cfd14f" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+<img width="852" height="144" alt="image" src="https://github.com/user-attachments/assets/5b0e6d9c-c9f9-4ece-b22f-00318a285fe4" />
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="724" height="179" alt="image" src="https://github.com/user-attachments/assets/b5f172af-b83d-4d83-979d-668c82de8342" />
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="655" height="277" alt="image" src="https://github.com/user-attachments/assets/8e0a0bc7-04b1-4caa-a2b1-afcfb4dffa22" />
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+<img width="681" height="234" alt="image" src="https://github.com/user-attachments/assets/4532439f-8695-407c-8816-9d7d91f72f9b" />
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+<img width="817" height="967" alt="image" src="https://github.com/user-attachments/assets/0bafbf24-3c9d-49e2-8398-4cb9fb19cf81" />
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="732" height="269" alt="image" src="https://github.com/user-attachments/assets/3e8153c3-4cd3-4709-80b1-88398bef6607" />
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
