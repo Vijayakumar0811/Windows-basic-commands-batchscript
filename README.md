@@ -1,6 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-
+### NAME: VIJAYAKUMAR S
+### REG NO: 212224040359
 # AIM:
 To execute Windows basic commands and batch scripting
 
@@ -78,6 +79,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+<img width="690" height="150" alt="image" src="https://github.com/user-attachments/assets/06551cb5-696e-47e7-9c55-14503ea1b661" />
 
 
 
@@ -93,6 +95,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="717" height="271" alt="image" src="https://github.com/user-attachments/assets/2976ecae-e022-4ece-bf03-1f019333a9bc" />
 
 
 
@@ -102,6 +105,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<img width="614" height="232" alt="image" src="https://github.com/user-attachments/assets/c72c7fa5-39c1-4db8-9390-d8ba0cc2aca4" />
 
 
 
@@ -115,6 +119,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="911" height="229" alt="image" src="https://github.com/user-attachments/assets/aa5e9764-fcb6-407f-89fc-42310dfb65dd" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -126,6 +131,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="691" height="527" alt="image" src="https://github.com/user-attachments/assets/417a9c1d-c3c1-4a0e-92f6-1574e515896e" />
 
 
 # RESULT:
